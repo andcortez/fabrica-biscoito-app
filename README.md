@@ -1,17 +1,4 @@
 # App Flutter para o projeto "Fabrica de Biscoito"
 Disponivel em: https://github.com/andcortez/fabrica-biscoito
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este app faz o envio e a visualização de dados para uma "fabrica de biscoitos" desenvolvida em Java, usando javaFX na interface e spring boot no backend.
