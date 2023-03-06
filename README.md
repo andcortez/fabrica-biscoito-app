@@ -1,4 +1,5 @@
-# app_remoto
+# App Flutter para o projeto "Fabrica de Biscoito"
+Disponivel em: https://github.com/andcortez/fabrica-biscoito
 
 A new Flutter project.
 
